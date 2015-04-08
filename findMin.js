@@ -6,4 +6,5 @@ function findMin(arr) {
       min = arr[i];
     }// end of if statement
   }// end of for loop
+  return min;
 }// end of function
